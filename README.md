@@ -1,4 +1,3 @@
-## Bayesian Machine Learning Project:
 ## Bayesian and Frequentist Models for Rental Price Prediction and Market Segmentation
 
 This project investigated rental price determinants and market heterogeneity through the Apart-
